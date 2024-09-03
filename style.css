@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.main-img-container {
+    height: 50vh;
+    display: flex;
+    justify-content: Center;
+    /* Center horizontally */
+    align-items: Center;
+    /* Center vertically */
+
+}
+
+.main-heading-container {
+    color: #183b56;
+    font-family: "bree Serif";
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.paragraph-container {
+    color: #616e7c;
+    font-family: "bree Serif";
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.sub-image-comtainer {
+    height: 15vh;
+    width: 160px;
+    padding: 5px;
+}
+
+.sub-image-text-container {
+    text-align: center;
+    display: flex;
+    /* Add this to enable flexbox */
+    justify-content: center;
+    /* Center horizontally */
+}
+
+.background-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 17px;
+}
+
+.heading-tag {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.p-tag {
+    color: #323f4b;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.b2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-width: 0px;
+    padding: 5px;
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: "roboto";
+    border-radius: 10px;
+
+}
+
+.b1 {
+    background-color: #ffffff;
+    color: #171f46;
+    border-width: 1px;
+    padding: 5px;
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: "roboto";
+    border-radius: 10px;
+
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.background-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card {
+    padding: 15px;
+    color: #323f4b;
+    background-color: #f6c56e;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.button {
+    font-family: "roboto";
+    border-radius: 7px;
+    width: 100px;
+    border-width: 0px;
+    padding: 4px;
+    margin-left: 10px;
+}
+
+.background-image22 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 18px;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 20px;
+}
+
+.p-tag {
+    color: #7b8794;
+    font-family: "roboto";
+
+}
+
+.b1 {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-width: 1px;
+    padding: 5px;
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: "roboto";
+    border-radius: 10px;
+
+}
